@@ -1,8 +1,3 @@
--- ============================================================
---  Realty Office — مخطط قاعدة البيانات (Supabase / PostgreSQL)
---  انسخ الملف ده بالكامل في: Supabase Dashboard -> SQL Editor -> New query -> Run
---  آمن للتشغيل أكثر من مرة (if not exists)
--- ============================================================
 
 create extension if not exists "pgcrypto";
 
